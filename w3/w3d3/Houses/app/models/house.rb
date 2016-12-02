@@ -1,0 +1,4 @@
+class House
+
+
+end
